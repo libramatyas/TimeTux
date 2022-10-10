@@ -18,4 +18,5 @@ this makes just fancy way of using
 
 ### **Credits**
  - [Czechian](https://github.com/libramatyas) for making the initial script
+ 
  - [Linus Torvalds](htpps://github.com/torvalds) for making Linux and this project even existing : )
