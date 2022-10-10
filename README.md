@@ -4,13 +4,14 @@
 
 ###we use 
 
-''' cpp
-    system("bash")
+``` c++
 
+    system("bash")
+```
 this allows us to execute bash commands from c++
 
-''' bash
+``` bash
         touch -d '2 hours ago' examplefile
-
+```
 
         
