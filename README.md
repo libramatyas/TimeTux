@@ -1,4 +1,4 @@
-# *TimeTux*
+# **TimeTux**
 ---
 
 ##How it works
