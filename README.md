@@ -10,7 +10,7 @@
     system("bash")
 ```
 to allow us to execute bash commands from c++
-this makes just fancy way of using   
+this makes just fancy way of using
 ```bash
     touch -d '2 hours ago' file.txt
 ```
